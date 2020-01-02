@@ -1,3 +1,3 @@
 # Batch-Files
-Auto run batch file
-Files Found here are in testing phase
+
+Files Found here are ready to use and run anytime
